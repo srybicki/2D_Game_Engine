@@ -5,9 +5,9 @@ A game engine used to create HTML5 games.
 * Individual project.
 * Programmed in JavaScript.
 * Features:
-** Handles many sprite and text objects
-** Sound effects
-** Animation
-** Physics
-** Gamepad support
-*Single JS file, no 3rd party libraries required.
+  * Handles many sprite and text objects
+  * Sound effects
+  * Animation
+  * Physics
+  * Gamepad support
+* Single JS file, no 3rd party libraries required.
