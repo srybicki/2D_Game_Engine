@@ -1,6 +1,8 @@
 # 2D_Game_Engine
 A game engine used to create HTML5 games.
 
+![Preview](Screenshot.png)
+
 * Compatible with Chrome and Firefox.
 * Individual project.
 * Programmed in JavaScript.
