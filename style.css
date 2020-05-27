@@ -1,0 +1,14 @@
+body {
+	background-color: #ffffff;
+	margin: 0px 0px 0px 0px;
+}
+
+canvas {
+	display: block;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
