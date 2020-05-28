@@ -1,5 +1,4 @@
 # 2D_Game_Engine
-A simple game engine for creating HTML5 games.
 
 ![Preview](Screenshot.png)
 
