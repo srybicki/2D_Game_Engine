@@ -1,5 +1,5 @@
 # 2D_Game_Engine
-A game engine used to create HTML5 games.
+A simple game engine for creating HTML5 games.
 
 ![Preview](Screenshot.png)
 
@@ -11,3 +11,10 @@ A game engine used to create HTML5 games.
   * Animation
   * Physics
   * Gamepad support
+
+## Getting Started
+1. Download the files from the master branch.
+2. Add your game assets into the existing assets folder.
+3. Open MyGame.js in the js folder, and code your game here.
+4. Run MyGame.html
+5. Enjoy!
