@@ -4,12 +4,10 @@ A game engine used to create HTML5 games.
 ![Preview](Screenshot.png)
 
 * Compatible with Chrome and Firefox.
-* Individual project.
-* Programmed in JavaScript.
+* Single JS file (2DEngine.js), no 3rd party libraries required.
 * Features:
   * Handles many sprite and text objects
   * Sound effects
   * Animation
   * Physics
   * Gamepad support
-* Single JS file, no 3rd party libraries required.
